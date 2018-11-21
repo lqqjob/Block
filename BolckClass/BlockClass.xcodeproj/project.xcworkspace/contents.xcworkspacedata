@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:BolckClass.xcodeproj">
+      location = "self:/Users/liqiang/Desktop/FreeLearning/Block/BolckClass/BlockClass.xcodeproj">
    </FileRef>
 </Workspace>
