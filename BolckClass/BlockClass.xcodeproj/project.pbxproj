@@ -42,7 +42,7 @@
 		D5362BD921A4ED5C0026AEBC = {
 			isa = PBXGroup;
 			children = (
-				D5362BE421A4ED5D0026AEBC /* BolckClass */,
+				D5362BE421A4ED5D0026AEBC /* BlockClass */,
 				D5362BE321A4ED5D0026AEBC /* Products */,
 			);
 			sourceTree = "<group>";
@@ -55,7 +55,7 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		D5362BE421A4ED5D0026AEBC /* BolckClass */ = {
+		D5362BE421A4ED5D0026AEBC /* BlockClass */ = {
 			isa = PBXGroup;
 			children = (
 				D5362BE521A4ED5D0026AEBC /* AppDelegate.h */,
@@ -68,7 +68,7 @@
 				D5362BF321A4ED670026AEBC /* Info.plist */,
 				D5362BF421A4ED670026AEBC /* main.m */,
 			);
-			path = BolckClass;
+			path = BlockClass;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
