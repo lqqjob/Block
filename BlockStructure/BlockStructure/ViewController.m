@@ -60,7 +60,7 @@ static int staticValue = 5;
     
     void (^objcDataBlock)(void) = ^{
         
-        NSLog(@"八点钟学院, %@", tmpLabel);
+        NSLog(@"objcDataBlockFunction, %@", tmpLabel);
         
     };
     
@@ -73,7 +73,7 @@ static int staticValue = 5;
     
     void (^objcDataBlock)(void) = ^{
         
-        NSLog(@"八点钟学院, %@", tmpLabel);
+        NSLog(@"weakObjcDataBlockFunction, %@", tmpLabel);
         
     };
     
@@ -85,7 +85,7 @@ static int staticValue = 5;
     
     void (^classDataBlock)(void) = ^{
         
-        NSLog(@"八点钟学院 %@", label);
+        NSLog(@"classDataBlockFunction %@", label);
         
     };
     
@@ -100,7 +100,7 @@ static int staticValue = 5;
     void (^blockDataBlock)(void) = ^{
         
         a = 1000;
-        NSLog(@"八点钟学院, %d", a);     ///堆区
+        NSLog(@"blockDataBlockFunction, %d", a);     ///堆区
         
     };
     
@@ -113,7 +113,7 @@ static int staticValue = 5;
     
     void (^globalDataBlock)(void) = ^{
         
-        NSLog(@"八点钟学院 %d", globalValueOne);
+        NSLog(@"globalDataBlockFunction %d", globalValueOne);
         
     };
     
@@ -124,7 +124,7 @@ static int staticValue = 5;
     
     void (^staticDataBlock)(void) = ^{
         
-        NSLog(@"八点钟学院 %d", staticValue);
+        NSLog(@"staticDataBlockFunction %d", staticValue);
         
     };
     
@@ -138,7 +138,7 @@ static int staticValue = 5;
     instanceBlock = ^{
         
         //        b = 110;
-        NSLog(@"八点钟学院 %d", b);
+        NSLog(@"tmpStaticDataBlockFunction %d", b);
         
     };
     
