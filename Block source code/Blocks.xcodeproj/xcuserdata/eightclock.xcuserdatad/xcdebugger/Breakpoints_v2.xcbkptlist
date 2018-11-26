@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "runtime.c"
+            timestampString = "556372894.855149"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "218"
+            endingLineNumber = "218"
+            landmarkName = "_Block_copy"
+            landmarkType = "9">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_Block_copy"
+                  moduleName = "debug_block"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/eightclock/Documents/block%E6%BA%90%E7%A0%81%E8%B0%83%E8%AF%95/runtime.c"
+                  timestampString = "556372894.867164"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "218"
+                  endingLineNumber = "218"
+                  offsetFromSymbolStart = "258">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_Block_copy"
+                  moduleName = "libsystem_blocks.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/eightclock/Documents/block%E6%BA%90%E7%A0%81%E8%B0%83%E8%AF%95/runtime.c"
+                  timestampString = "556372894.871397"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "218"
+                  endingLineNumber = "218"
+                  offsetFromSymbolStart = "108">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "runtime.c"
+            timestampString = "556372932.559195"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "169"
+            endingLineNumber = "169"
+            landmarkName = "_Block_call_copy_helper"
+            landmarkType = "9">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_Block_call_copy_helper"
+                  moduleName = "debug_block"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/eightclock/Documents/block%E6%BA%90%E7%A0%81%E8%B0%83%E8%AF%95/runtime.c"
+                  timestampString = "556372932.570747"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "169"
+                  endingLineNumber = "169"
+                  offsetFromSymbolStart = "45">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_Block_copy"
+                  moduleName = "libsystem_blocks.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/eightclock/Documents/block%E6%BA%90%E7%A0%81%E8%B0%83%E8%AF%95/runtime.c"
+                  timestampString = "556372932.573631"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "169"
+                  endingLineNumber = "169"
+                  offsetFromSymbolStart = "137">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "runtime.c"
+            timestampString = "556372969.599425"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "435"
+            endingLineNumber = "435"
+            landmarkName = "_Block_object_assign"
+            landmarkType = "9">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_Block_object_assign"
+                  moduleName = "debug_block"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/eightclock/Documents/block%E6%BA%90%E7%A0%81%E8%B0%83%E8%AF%95/runtime.c"
+                  timestampString = "556372969.612685"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "435"
+                  endingLineNumber = "435"
+                  offsetFromSymbolStart = "27">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_Block_object_assign"
+                  moduleName = "libsystem_blocks.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/eightclock/Documents/block%E6%BA%90%E7%A0%81%E8%B0%83%E8%AF%95/runtime.c"
+                  timestampString = "556372969.644209"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "435"
+                  endingLineNumber = "435"
+                  offsetFromSymbolStart = "16">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "runtime.c"
+            timestampString = "556372986.4310189"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "237"
+            endingLineNumber = "237"
+            landmarkName = "_Block_byref_copy"
+            landmarkType = "9">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_Block_byref_copy"
+                  moduleName = "debug_block"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/eightclock/Documents/block%E6%BA%90%E7%A0%81%E8%B0%83%E8%AF%95/runtime.c"
+                  timestampString = "556372986.446633"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "237"
+                  endingLineNumber = "237"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_Block_object_assign"
+                  moduleName = "libsystem_blocks.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/eightclock/Documents/block%E6%BA%90%E7%A0%81%E8%B0%83%E8%AF%95/runtime.c"
+                  timestampString = "556372986.451238"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "237"
+                  endingLineNumber = "237"
+                  offsetFromSymbolStart = "117">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "runtime.c"
+            timestampString = "556373015.598204"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "261"
+            endingLineNumber = "261"
+            landmarkName = "_Block_byref_copy"
+            landmarkType = "9">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_Block_byref_copy"
+                  moduleName = "debug_block"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/eightclock/Documents/block%E6%BA%90%E7%A0%81%E8%B0%83%E8%AF%95/runtime.c"
+                  timestampString = "556373015.6058199"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "261"
+                  endingLineNumber = "261"
+                  offsetFromSymbolStart = "271">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_Block_object_assign"
+                  moduleName = "libsystem_blocks.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/eightclock/Documents/block%E6%BA%90%E7%A0%81%E8%B0%83%E8%AF%95/runtime.c"
+                  timestampString = "556373015.609712"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "261"
+                  endingLineNumber = "261"
+                  offsetFromSymbolStart = "317">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "runtime.c"
+            timestampString = "556373162.4310859"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "480"
+            endingLineNumber = "480"
+            landmarkName = "_Block_object_assign"
+            landmarkType = "9">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_Block_object_assign"
+                  moduleName = "debug_block"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/eightclock/Documents/block%E6%BA%90%E7%A0%81%E8%B0%83%E8%AF%95/runtime.c"
+                  timestampString = "556373162.447973"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "480"
+                  endingLineNumber = "480"
+                  offsetFromSymbolStart = "277">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_Block_object_assign"
+                  moduleName = "libsystem_blocks.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/eightclock/Documents/block%E6%BA%90%E7%A0%81%E8%B0%83%E8%AF%95/runtime.c"
+                  timestampString = "556373162.4514689"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "500"
+                  endingLineNumber = "500"
+                  offsetFromSymbolStart = "332">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

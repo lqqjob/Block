@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "runtime.c"
+            timestampString = "562555361.899189"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "218"
+            endingLineNumber = "218"
+            landmarkName = "_Block_copy"
+            landmarkType = "9">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_Block_copy"
+                  moduleName = "debug_block"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/liqiang/Downloads/Block%E5%8E%9F%E7%90%86%E8%AF%BE%E7%A8%8B%E4%BB%A3%E7%A0%81%E8%B5%84%E6%96%99/block%E6%BA%90%E7%A0%81%E8%B0%83%E8%AF%95/runtime.c"
+                  timestampString = "562555474.275511"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "218"
+                  endingLineNumber = "218"
+                  offsetFromSymbolStart = "258">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_Block_copy"
+                  moduleName = "libsystem_blocks.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/liqiang/Downloads/Block%E5%8E%9F%E7%90%86%E8%AF%BE%E7%A8%8B%E4%BB%A3%E7%A0%81%E8%B5%84%E6%96%99/block%E6%BA%90%E7%A0%81%E8%B0%83%E8%AF%95/runtime.c"
+                  timestampString = "562555474.724274"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "218"
+                  endingLineNumber = "218"
+                  offsetFromSymbolStart = "102">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
