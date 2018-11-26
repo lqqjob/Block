@@ -7,6 +7,7 @@
 //
 
 #import "ViewController.h"
+#include "BlockStruct.hpp"
 typedef void(^eocblock)(void);
 
 @interface ViewController () {
@@ -27,6 +28,8 @@ static int staticValue = 5;
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
     [self emptyBlcokFun];
+    
+    test();
 }
 
 //
