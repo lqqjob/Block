@@ -16,7 +16,6 @@ typedef void(^MyBlock)(int a);
 @property (nonatomic, strong) MyBlock  stongBlock;
 @property (nonatomic, copy) MyBlock  copyBlock;
 @property (nonatomic, weak) MyBlock  weakBlock;
-
 @end
 
 @implementation ViewController
@@ -25,7 +24,6 @@ typedef void(^MyBlock)(int a);
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
     [self blockClass];
-    
     
     [self blockMemory];
 }
@@ -178,9 +176,9 @@ static int c = 0;
     };
     
     _weakBlock = ^(int a) {
-        NSLog(@"%d",d);
+        NSLog(@"%d",a);
     };
-    
+    _weakBlock(1000000);
     NSLog(@"4、三种类型的block 引用局部变量 \n _strongBlock:%@ \n _copyBlock:%@ \n _weakBlock:%@ \n",NSStringFromClass([_stongBlock class]),NSStringFromClass([_copyBlock class]),NSStringFromClass([_weakBlock class]));
     
 //                结论：1、strong、copy修饰的block引用局部变量时分布在堆区
@@ -199,6 +197,10 @@ static int c = 0;
      
      */
 
+}
+
+- (void)touchesBegan:(NSSet<UITouch *> *)touches withEvent:(UIEvent *)event {
+    _weakBlock(123);
 }
 
 
